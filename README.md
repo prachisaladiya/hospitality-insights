@@ -1,5 +1,5 @@
 # Hospitality Domain Power BI Dashboard
-- This project presents a Power BI dashboard analyzing hotel performance across cities and platforms. It highlights key metrics like Revenue, RevPAR, ADR, and Occupancy %, and uses DAX and data modeling to derive business insights.
+- This project presents a Power BI dashboard analyzing hotel performance across cities and platforms. It highlights key metrics like Revenue, RevPAR, ADR, and Occupancy %, and uses DAX and data modeling to derive   business insights.
 
 ## Tools & Techniques Used
 - **Power BI** for dashboard creation
@@ -29,10 +29,10 @@ Performed in **Power Query**:
 ## DAX Highlights
 - Custom measures for KPIs (e.g., RevPar, Realisation %)
 - Week-on-week change calculations
-- 
+  
 ## Data Modeling
 - Star schema with fact and dimension tables
 - Relationships established for accurate filtering and cross-highlighting
 
 ## Outcome
-This project demonstrates practical application of Power BI, DAX, and data modeling in the hospitality domain, aimed at helping stakeholders understand hotel performance trends and make data-driven decisions.
+- This project demonstrates practical application of Power BI, DAX, and data modeling in the hospitality domain, aimed at helping stakeholders understand hotel performance trends and make data-driven decisions.
