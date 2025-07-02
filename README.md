@@ -35,7 +35,7 @@ Performed in **Power Query**:
 - Relationships established for accurate filtering and cross-highlighting
 
 ## Dashboard Preview
-[Dashboard Preview]
+- [Dashboard Preview](https://github.com/prachisaladiya/hospitality-insights/blob/main/Hospitality%20Insights.png)
 
 ## Outcome
 - This project demonstrates practical application of Power BI, DAX, and data modeling in the hospitality domain, aimed at helping stakeholders understand hotel performance trends and make data-driven decisions.
