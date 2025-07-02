@@ -34,5 +34,8 @@ Performed in **Power Query**:
 - Star schema with fact and dimension tables
 - Relationships established for accurate filtering and cross-highlighting
 
+## Dashboard Preview
+[Dashboard Preview]
+
 ## Outcome
 - This project demonstrates practical application of Power BI, DAX, and data modeling in the hospitality domain, aimed at helping stakeholders understand hotel performance trends and make data-driven decisions.
